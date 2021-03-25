@@ -13,6 +13,7 @@ namespace GitProjectTest
             Console.WriteLine("Hello World");
             Console.WriteLine("added content");
             Console.WriteLine("more added content");
+            Console.WriteLine("branch content");
             Console.ReadKey();
         }
     }
