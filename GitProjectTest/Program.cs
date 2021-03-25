@@ -11,6 +11,10 @@ namespace GitProjectTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Added line");
+
+            Console.WriteLine("Heres another");
+
             Console.ReadKey();
         }
     }
