@@ -1,0 +1,7 @@
+C:\Users\11joe\source\repos\GitProjectTest\GitProjectTest\bin\Debug\GitProjectTest.exe.config
+C:\Users\11joe\source\repos\GitProjectTest\GitProjectTest\bin\Debug\GitProjectTest.exe
+C:\Users\11joe\source\repos\GitProjectTest\GitProjectTest\bin\Debug\GitProjectTest.pdb
+C:\Users\11joe\source\repos\GitProjectTest\GitProjectTest\obj\Debug\GitProjectTest.csprojAssemblyReference.cache
+C:\Users\11joe\source\repos\GitProjectTest\GitProjectTest\obj\Debug\GitProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\11joe\source\repos\GitProjectTest\GitProjectTest\obj\Debug\GitProjectTest.exe
+C:\Users\11joe\source\repos\GitProjectTest\GitProjectTest\obj\Debug\GitProjectTest.pdb
