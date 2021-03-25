@@ -14,6 +14,7 @@ namespace GitProjectTest
             Console.WriteLine("added content");
             Console.WriteLine("more added content");
             Console.WriteLine("branch content");
+            int x = 3;
             Console.ReadKey();
         }
     }
